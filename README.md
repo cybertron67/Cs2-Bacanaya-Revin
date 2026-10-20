@@ -17,7 +17,7 @@
  2. Process - Calculates and displays the electricity bill
  3. Output - Customers name, your electricity consumption, and your total bill in PHP
  4. Input validations:
-  a. Customer name -- Must not be empty
-  b. Previous reading -- Number at least 0
-  c. Current reading -- Number at least the previous reading
+  1. Customer name -- Must not be empty
+  2. Previous reading -- Number at least 0
+  3. Current reading -- Number at least the previous reading
 
