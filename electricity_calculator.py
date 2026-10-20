@@ -1,6 +1,5 @@
 # Electricity Bill Calculator
 RATE = 12.90
-
 while True:
     
  name = input("Enter customer name: ")
